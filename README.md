@@ -1,4 +1,4 @@
-<img width="1366" height="685" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/b2cc6633-d7b0-4952-97df-a703cd67c623" /> 🎬 Movie Recommendation System
+ 🎬 Movie Recommendation System
 
 This is a beginner-friendly Movie Recommendation System built using Python in Google Colab. It recommends movies based on content similarity using text-based features.
 
@@ -46,6 +46,7 @@ The goal of this project is to suggest similar movies based on user input. It us
 > - Shutter Island  
 > - The Prestige  
 > - Memento
+<img width="1366" height="685" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/b2cc6633-d7b0-4952-97df-a703cd67c623" />
 (https://github.com/sree453/collegedemo/blob/main/result.png)
 
 📚 Dataset Used
