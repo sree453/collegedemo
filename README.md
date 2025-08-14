@@ -35,6 +35,7 @@ The goal of this project is to suggest similar movies based on user input. It us
 2. TF-IDF vectorizer converts movie metadata into numerical vectors.
 3. Cosine similarity is calculated between movies.
 4. Based on a given movie, top similar movies are recommended.
+5. If the person doesn't know any movies based on description we can also find the recommendation.
 
 
 🧪 Example Output
@@ -60,6 +61,7 @@ The goal of this project is to suggest similar movies based on user input. It us
 2. Upload or mount the dataset
 3. Run the notebook cell-by-cell
 4. Enter a movie name to get recommendations
+5. Enter a description u can also get the recommendations
 
  👩‍💻 Author
 Sreeja Theegala  
