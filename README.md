@@ -61,7 +61,7 @@ The goal of this project is to suggest similar movies based on user input. It us
 2. Upload or mount the dataset
 3. Run the notebook cell-by-cell
 4. Enter a movie name to get recommendations
-5. Enter a description u can also get the recommendations
+5. Enter a description you can also get the recommendations
 
  👩‍💻 Author
 Sreeja Theegala  
